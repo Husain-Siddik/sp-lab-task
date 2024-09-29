@@ -1,3 +1,5 @@
+//Problem: Sum of N natural numbers
+
 #include <stdio.h>
 
 int main() {

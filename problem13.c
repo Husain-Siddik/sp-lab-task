@@ -1,3 +1,5 @@
+// Calculate Average
+
 #include <stdio.h>
 
 int main() {

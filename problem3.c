@@ -1,3 +1,6 @@
+//Write a C program to find the largest of three numbers using nested if-else conditions.
+
+
 #include <stdio.h>
 
 int main() {
@@ -5,11 +8,14 @@ int a ,b,c;
 
 scanf("%d %d %d" ,&a ,&b , &c);
 
-if( a > b && a > c ){
+if( a > b && a > c )
+{
     printf("the largest namber is %d", a);
-}else if(b > a && b > c){
+}else if(b > a && b > c)
+{
     printf("the largest namber is %d", b);
-}else if(a == b || b ==c ||c == a ){
+}else if(a == b || b ==c ||c == a )
+{
     printf(" all the Numbers are same");
 }
 else{

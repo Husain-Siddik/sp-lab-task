@@ -1,3 +1,5 @@
+// Write a program to create a simple calculator using the switch-case statement. The program should perform addition, subtraction, multiplication, and division based on user input.
+
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,6 @@
+// Write a C program that takes two numbers and prints if the sum is even or odd.
+
+
 #include <stdio.h>
 
 int main() {
